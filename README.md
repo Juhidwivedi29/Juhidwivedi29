@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Juhidwivedi29
 - 👀 I’m interested in learning front end development
 - 🌱 I’m currently learning HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on Android products
+- 💞️ I’m looking to collaborate on web and Android projects
 - 📫 How to reach me hi @juhidwivedi.com
 - 😄 Pronouns: She/her
 - ⚡ I am a designer by Profession!
